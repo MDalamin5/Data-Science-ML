@@ -1,0 +1,6 @@
+# num = int(input('Please enter someThing: '))
+# strng = str(input(f"enter some str: "))
+# print(num, strng)
+print(10/3)
+print(10//3)
+print(2**3)
