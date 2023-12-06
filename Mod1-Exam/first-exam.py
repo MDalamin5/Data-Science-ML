@@ -19,4 +19,6 @@ elif score >= 40 and score <= 49:
     print('E-')
 
 else:
-    print('Fail')
+    if score < 40:
+        print('Fail')
+    
