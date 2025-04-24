@@ -71,7 +71,5 @@ This project focuses on building a machine learning model to predict job salarie
 - **Matplotlib**
 
 ---
-Thank you for checking out our project! Feel free to contribute or reach out with feedback or suggestions.
-
-> "Does anyone have any questions or suggestions?" — *Team 4, CSE445*
+Thank you for checking out My project! Feel free to contribute or reach out with feedback or suggestions.
 
